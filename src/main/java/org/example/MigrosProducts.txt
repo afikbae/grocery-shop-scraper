@@ -1,0 +1,2048 @@
+{
+   'name':'Migros Ekonomik Orta Boy Çöp Torbasý 30'lu', 
+   'price':'12,50 TL'
+}
+{
+   'name':'Playdoh 4'lü Hamur 4x112 G', 
+   'price':'49,90 TL'
+}
+{
+   'name':'Lipton Ice Tea Þeftali Pet 2 L', 
+   'price':'26,50 TL'
+}
+{
+   'name':'Roka Demet', 
+   'price':'10,90 TL'
+}
+{
+   'name':'Günlük Yufka 1000 G', 
+   'price':'28,90 TL'
+}
+{
+   'name':'Nesquik Sütlü Çikolata Gofret 26,7 G', 
+   'price':'5,00 TL'
+}
+{
+   'name':'Sek Süt 1 L', 
+   'price':'26,75 TL'
+}
+{
+   'name':'Superfresh Pizza Tost 2 Adet 250 G', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Dereotu Adet', 
+   'price':'11,90 TL'
+}
+{
+   'name':'Simit', 
+   'price':'7,00 TL'
+}
+{
+   'name':'Sözcü Gazetesi', 
+   'price':'6,00 TL'
+}
+{
+   'name':'Pedigree Biscrok Ödül Bisküvisi 500 G', 
+   'price':'59,90 TL'
+}
+{
+   'name':'Tat Domates Salçasý Cam 710 G', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Biber Kýrmýzý Kg', 
+   'price':'59,90 TL'
+}
+{
+   'name':'Pedigree Rodeo 7'li Ödül Mamasý 123 G', 
+   'price':'36,90 TL'
+}
+{
+   'name':'Tire Organik Yumurta 10'lu M Boy (53-62 G)', 
+   'price':'57,95 TL'
+}
+{
+   'name':'Fairy 650 ml Sývý Bulaþýk Deterjaný Limon', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Superfresh Jumbo Patates 1 Kg', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Perwoll Hassas Bakým Sývý Çamaþýr Deterjaný 3L (50 Yýkama) Renkli Yenileme', 
+   'price':'98,90 TL'
+}
+{
+   'name':'Pritt Keçeli Kalem 24'Lü', 
+   'price':'84,90 TL'
+}
+{
+   'name':'Orkid Platinum Hijyenik Ped Normal Süper Ekonomik Paket 24 Ped', 
+   'price':'67,25 TL'
+}
+{
+   'name':'Feast Parmak Patates 1 Kg', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Gillette Simply Venus 2 Kullan At Kadýn Týraþ Býçaðý 4 Adet', 
+   'price':'42,90 TL'
+}
+{
+   'name':'Söke Un 1 Kg', 
+   'price':'19,50 TL'
+}
+{
+   'name':'Ak Kedi Kumu Lavanta Kokulu Ýnce Taneli 5 L', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Halley Çikolata Kaplamalý Sandviç Bisküvi 8'Li 240 G', 
+   'price':'25,00 TL'
+}
+{
+   'name':'Roxy Toz Sabun 800 G', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Hýyar Badem Paket Kg', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Dana Kýymalýk Kg', 
+   'price':'269,90 TL'
+}
+{
+   'name':'Solo Tuvalet Kaðýdý 32'li', 
+   'price':'197,90 TL'
+}
+{
+   'name':'Dana But Tas Kebaplýk Et Çiftlik Kg', 
+   'price':'394,90 TL'
+}
+{
+   'name':'9 Kat Tat Fýndýklý Gofret 39 G', 
+   'price':'4,00 TL'
+}
+{
+   'name':'Ýpek Disk Temizleme Pamuðu 70 Adet', 
+   'price':'15,45 TL'
+}
+{
+   'name':'Minies Bebek Bakým Örtüsü 60X60 Cm 10 Adet', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Felix Etli Konserve Kedi Mamasý 400 G', 
+   'price':'49,00 TL'
+}
+{
+   'name':'Perwoll Hassas Bakým Sývý Çamaþýr Deterjaný 3L (50 Yýkama) Beyaz Yenileme', 
+   'price':'98,90 TL'
+}
+{
+   'name':'Ýyilik Tam Buðday Ekmeði 350 G', 
+   'price':'11,50 TL'
+}
+{
+   'name':'Migros Sarý Leblebi 200 G', 
+   'price':'15,00 TL'
+}
+{
+   'name':'Uni Baby Çamaþýr Yumuþatýcý 1500 Ml', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Hýyar Kg', 
+   'price':'14,25 TL'
+}
+{
+   'name':'Hipp 2 Organik Combiotic Devam Sütü 350 G', 
+   'price':'239,90 TL'
+}
+{
+   'name':'Copier Bond Fotokopi Kaðýdý A4 500 Yaprak 80 G', 
+   'price':'74,90 TL'
+}
+{
+   'name':'Solo Havlu 12'li', 
+   'price':'159,90 TL'
+}
+{
+   'name':'i'think Silver Çoklu Þarj Kablosu', 
+   'price':'25,90 TL'
+}
+{
+   'name':'Ttec Micro Usb Kablosu Beyaz', 
+   'price':'64,90 TL'
+}
+{
+   'name':'Sütaþ Kaymaksýz Yoðurt 1000 G', 
+   'price':'29,50 TL'
+}
+{
+   'name':'Maket Kutu - Benim Ýlk Bitkim', 
+   'price':'46,90 TL'
+}
+{
+   'name':'Namet Hindi Füme 7/24 60 G', 
+   'price':'9,50 TL'
+}
+{
+   'name':'Posta Gazetesi (Hafta Ýçi)', 
+   'price':'4,00 TL'
+}
+{
+   'name':'Gourmet Gold Parça Etli Soslu Sýðýr Etli 85 G', 
+   'price':'21,95 TL'
+}
+{
+   'name':'Ýçim Sade Süt 6X200 Ml', 
+   'price':'41,45 TL'
+}
+{
+   'name':'Migros Hawaii Hindistan Cevizi Özlü Sývý Sabun 500 Ml', 
+   'price':'9,50 TL'
+}
+{
+   'name':'Coca-Cola Zero Sugar Pet 4X1 L', 
+   'price':'59,50 TL'
+}
+{
+   'name':'Kurukahveci Mehmet Efendi Türk Kahvesi 100 G', 
+   'price':'23,50 TL'
+}
+{
+   'name':'Güres M - Orta Boy Yumurta 30'lu ( 53 - 62 G)', 
+   'price':'76,50 TL'
+}
+{
+   'name':'Ttec Type C Þarj Kablosu', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Çim Adam (L.O.L)', 
+   'price':'12,90 TL'
+}
+{
+   'name':'Dreamies Ördekli Kedi Ödül Mamasý 60 G', 
+   'price':'18,90 TL'
+}
+{
+   'name':'Çim Adam (Kral Þakir)', 
+   'price':'12,90 TL'
+}
+{
+   'name':'9 Kat Tat Rulokat Fýndýklý Rulo Gofret 170G', 
+   'price':'24,00 TL'
+}
+{
+   'name':'Hacý Þakir Doðal Beyaz Kalýp Sabun 4X150 G', 
+   'price':'74,90 TL'
+}
+{
+   'name':'Pýnar Süt 1 L', 
+   'price':'25,90 TL'
+}
+{
+   'name':'Philips MG3710/15 Erkek Bakým Kiti', 
+   'price':'639,90 TL'
+}
+{
+   'name':'Migros Ayçiçek Yaðý 1 L', 
+   'price':'37,50 TL'
+}
+{
+   'name':'Haylayf Bisküvi 64G', 
+   'price':'5,00 TL'
+}
+{
+   'name':'Prima Bebek Bezi Aktif Bebek 6 Beden 56 Adet Ekstra Large Mega Fýrsat Paketi', 
+   'price':'407,90 TL'
+}
+{
+   'name':'Migros Streç Film 50 M', 
+   'price':'14,75 TL'
+}
+{
+   'name':'Molfix Avantajlý Paket 5 Beden Junýor 11-18 Kg 30'lu', 
+   'price':'116,95 TL'
+}
+{
+   'name':'Lay's Fýrýndan Yoðurt & Mevsim Yeþillikli Patates Çerezi Parti Boy 134 g', 
+   'price':'23,45 TL'
+}
+{
+   'name':'Dr.Oetker Hamur Kabartma Tozu 15'li Paket 150 G', 
+   'price':'20,90 TL'
+}
+{
+   'name':'Le Petit Marseillais Sývý Sabun Pamuk Sütü 500 Ml', 
+   'price':'70,90 TL'
+}
+{
+   'name':'Coca-Cola Zero Sugar Kutu 6X250 Ml', 
+   'price':'83,25 TL'
+}
+{
+   'name':'Uno Sandviç Ekmeði 5'Li 325 G', 
+   'price':'26,95 TL'
+}
+{
+   'name':'Damla Minera Minarelli Su Cam 6X200 Ml', 
+   'price':'20,50 TL'
+}
+{
+   'name':'Renkli Saksýlý Kaktüs Blister', 
+   'price':'18,90 TL'
+}
+{
+   'name':'Irmak Küp Þeker 1 Kg', 
+   'price':'28,90 TL'
+}
+{
+   'name':'Uludað Doðal Maden Suyu 6X200 Ml', 
+   'price':'23,75 TL'
+}
+{
+   'name':'Migros Havuç Beypazarý Paket Kg', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Cook Küçük Boy Çöp Torbasý Kokusuz 30'Lu', 
+   'price':'19,50 TL'
+}
+{
+   'name':'Superfresh Elma Dilim Patates 1 Kg', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Dreamies Somonlu Kedi Ödül Mamasý 60 G', 
+   'price':'18,90 TL'
+}
+{
+   'name':'Algida Moo Shake 60 Ml', 
+   'price':'12,00 TL'
+}
+{
+   'name':'Deve Tabaný', 
+   'price':'129,90 TL'
+}
+{
+   'name':'XXL Sümbül', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Domestos Çamaþýr Suyu Pembe Güç 750 Ml', 
+   'price':'25,50 TL'
+}
+{
+   'name':'Piknik Hijyenik Kürdan 200 Adet 117 - P', 
+   'price':'10,90 TL'
+}
+{
+   'name':'Migros Taze Kaþar Peyniri 700 G', 
+   'price':'137,75 TL'
+}
+{
+   'name':'Eti Browni Intense Mini Çikolatalý Kek 160 g', 
+   'price':'20,00 TL'
+}
+{
+   'name':'Forever Plus Alkalýn Kalem Pil 12'Li', 
+   'price':'37,50 TL'
+}
+{
+   'name':'Pilsan Sweety Kova Takýmý', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Ortanca', 
+   'price':'187,90 TL'
+}
+{
+   'name':'Whiskas Ton Balýklý Konserve Yaþ Mama 400 G', 
+   'price':'33,90 TL'
+}
+{
+   'name':'Tadým Kavrulmuþ Siyah Ayçekirdeði 180 G', 
+   'price':'26,90 TL'
+}
+{
+   'name':'Pizza Mi-Go Karýþýk Pizza Dondurulmuþ 545 G', 
+   'price':'59,90 TL'
+}
+{
+   'name':'Koska Kaðýt Helva 45 G', 
+   'price':'6,75 TL'
+}
+{
+   'name':'Magnum Mini Classic, Badem, Beyaz (6'lý)', 
+   'price':'99,90 TL'
+}
+{
+   'name':'Cook Orta Boy Buzdolabý Poþeti', 
+   'price':'17,50 TL'
+}
+{
+   'name':'Cook Streç Film 15 M', 
+   'price':'22,75 TL'
+}
+{
+   'name':'Biber Sivri Kg', 
+   'price':'15,90 TL'
+}
+{
+   'name':'Sütaþ Kaymaksýz Yoðurt 600 G', 
+   'price':'21,00 TL'
+}
+{
+   'name':'Cook Buzdolabý Poþeti (3+1) Büyük Boy 30x45 cm 80'li', 
+   'price':'52,75 TL'
+}
+{
+   'name':'Migros Domates Salçasý 830 G', 
+   'price':'31,90 TL'
+}
+{
+   'name':'Migros Ýyotlu Sofra Tuzu 750 G', 
+   'price':'3,75 TL'
+}
+{
+   'name':'Hipp Organik Ýyi Geceler Yulaflý Elmalý Ek Gýda 250 G', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Faber Castell 4 Candy Silgili Kurþun Kalem', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Aptamil Çocuk Devam Sütü 4 800 G + Aptamil Çocuk Devam Sütü 4 350 G', 
+   'price':'469,90 TL'
+}
+{
+   'name':'Touch Me Yapay Çiçek 57 Cm(1127185)(n22)', 
+   'price':'24,95 TL'
+}
+{
+   'name':'Karnabahar Kg', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Barilla Spagetti (Spaghetti) Makarna No:5 500 G', 
+   'price':'22,75 TL'
+}
+{
+   'name':'Komili Islak Havlu 3X60 Adet', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Migros Bulaþýk Makinesi Parlatýcý 500 Ml', 
+   'price':'15,25 TL'
+}
+{
+   'name':'Ünal Lüks Klasik Ýnek Peyniri Kg', 
+   'price':'197,50 TL'
+}
+{
+   'name':'Armut Santa Maria Kg', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Ananas Adet', 
+   'price':'49,90 TL'
+}
+{
+   'name':'Dr.Oetker Instant Maya 30 G', 
+   'price':'11,90 TL'
+}
+{
+   'name':'Pritt Stick 3x11 G + 1x10G', 
+   'price':'69,50 TL'
+}
+{
+   'name':'Dr.Oetker Hamur Kabartma Tozu 10'lu Paket 100 G', 
+   'price':'14,50 TL'
+}
+{
+   'name':'Ecoplant Succulent Q5,5', 
+   'price':'14,90 TL'
+}
+{
+   'name':'Kokulu Karanfil', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Touch Me Dijital Baskül SS-2005', 
+   'price':'149,90 TL'
+}
+{
+   'name':'Migros Ayran 1500 Ml', 
+   'price':'23,50 TL'
+}
+{
+   'name':'Nescafe 2 Si 1 Arada 10 G x 10'lu Paket', 
+   'price':'35,50 TL'
+}
+{
+   'name':'Sensodyne Ferah Nefes Diþ Macunu 100 Ml', 
+   'price':'43,75 TL'
+}
+{
+   'name':'Banvit Piliç Izgara Tava Kg', 
+   'price':'167,90 TL'
+}
+{
+   'name':'Koroplast Büyük Boy Buzdolabý Poþeti 20'li', 
+   'price':'19,95 TL'
+}
+{
+   'name':'Dana Antrikot Kg', 
+   'price':'399,90 TL'
+}
+{
+   'name':'Torku Süt 4X1 L', 
+   'price':'107,75 TL'
+}
+{
+   'name':'Torflower 10L Çiçek Saksý Topraðý', 
+   'price':'17,90 TL'
+}
+{
+   'name':'Hipp Organik Kayýsý Püresi 125 G', 
+   'price':'32,90 TL'
+}
+{
+   'name':'Torku Süzme Peynir 450 G', 
+   'price':'61,45 TL'
+}
+{
+   'name':'Migros Yeþil Mercimek 1000 G', 
+   'price':'27,50 TL'
+}
+{
+   'name':'Ýçim Þef %18 Yaðlý Krema 200 Ml', 
+   'price':'15,90 TL'
+}
+{
+   'name':'Duru Saf&Doðal Klasik Beyaz Kalýp Sabun 600 G', 
+   'price':'64,50 TL'
+}
+{
+   'name':'Sardunya', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Migros Ekonomik Çöp Torbasý Büyük Boy 20 Adet', 
+   'price':'14,50 TL'
+}
+{
+   'name':'Prima Bebek Bezi Aktif Bebek 7 Beden 48 Adet XX Large Mega Fýrsat Paketi', 
+   'price':'407,90 TL'
+}
+{
+   'name':'Ldnio 25Cm Type-C Hýzlý Þarj Kablo LC98', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Roll Up Karton Bardak 50'Li 7 Oz.', 
+   'price':'59,95 TL'
+}
+{
+   'name':'Eti Gong Mýsýr ve Pirinç Patlaðý 64 g', 
+   'price':'7,40 TL'
+}
+{
+   'name':'Solo Plant Orkide Q12', 
+   'price':'159,90 TL'
+}
+{
+   'name':'Ülker Napoliten 33 G', 
+   'price':'8,50 TL'
+}
+{
+   'name':'Cook Kesilmýþ Yaðlý Piþirme Kaðýdý 16 Yaprak', 
+   'price':'41,00 TL'
+}
+{
+   'name':'Filiz Burgu Makarna 500 G', 
+   'price':'12,75 TL'
+}
+{
+   'name':'Atom Salata Adet', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Ýhe Tam Buðday Unlu Sandviç 400 G', 
+   'price':'14,50 TL'
+}
+{
+   'name':'Tat Barbunya Pilaki 400 G', 
+   'price':'28,90 TL'
+}
+{
+   'name':'Erikli Doðal Kaynak Suyu 6x1.5 L', 
+   'price':'39,95 TL'
+}
+{
+   'name':'Unýcorn Sihirli Boyama Kitabý', 
+   'price':'26,90 TL'
+}
+{
+   'name':'Kýzýlay Afyonkarahisar Doðal Maden Suyu 6x200 Ml', 
+   'price':'18,75 TL'
+}
+{
+   'name':'Eti Burçak Tam Buðday Unlu Bisküvi 131 g', 
+   'price':'9,25 TL'
+}
+{
+   'name':'iThink Cep Telefonu Ekran Büyüteci 10” Mg-50', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Superfresh Ispanak 450 G', 
+   'price':'37,90 TL'
+}
+{
+   'name':'Ýçim Labne Peynir 400 G', 
+   'price':'46,90 TL'
+}
+{
+   'name':'Ülker Pötibör Bisküvi 450 G', 
+   'price':'29,00 TL'
+}
+{
+   'name':'Xýaomý Mý Wýreless Outdoor Kamera 1080P', 
+   'price':'1.599,00 TL'
+}
+{
+   'name':'Nutella 400 G', 
+   'price':'47,90 TL'
+}
+{
+   'name':'Migros Dermason Kuru Fasulye 1000 G', 
+   'price':'35,90 TL'
+}
+{
+   'name':'Erikli Doðal Kaynak Suyu 12x500 Ml', 
+   'price':'48,95 TL'
+}
+{
+   'name':'Uno Premium Çok Tahýllý ve Siyez Buðdaylý Ekmek 350 G', 
+   'price':'31,50 TL'
+}
+{
+   'name':'Biscolata Stix Sütlü 40 G', 
+   'price':'10,00 TL'
+}
+{
+   'name':'Ülker Tuzlu Çubuk Kraker 40 G', 
+   'price':'2,25 TL'
+}
+{
+   'name':'Ýhe Tam Buðday Ekmeði 400 G', 
+   'price':'14,00 TL'
+}
+{
+   'name':'Roll-Up Kesilmiþ Yaðlý Piþirme Kaðýdý 16 Yaprak', 
+   'price':'27,90 TL'
+}
+{
+   'name':'Ecoplant Seramik Saksý Succulent', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Fesleðen', 
+   'price':'12,90 TL'
+}
+{
+   'name':'Migros Ultra Çamaþýr Suyu Ocean 1000 Ml', 
+   'price':'14,90 TL'
+}
+{
+   'name':'Kaktüs Magnet', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Faber Castell Solvent Ýçermeyen Sývý Yapýþtýrýcý 2'li', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Domates Kokteyl Kg', 
+   'price':'37,90 TL'
+}
+{
+   'name':'Koroplast Buzdolabý Poþeti 3+1 Küçük 20X30 160'Lý', 
+   'price':'59,95 TL'
+}
+{
+   'name':'Migros Kýrmýzý Mercimek 1000 G', 
+   'price':'22,50 TL'
+}
+{
+   'name':'Pýnar Aç Bitir Macar Salam 60 G', 
+   'price':'28,00 TL'
+}
+{
+   'name':'Kýzýlay Erzincan Doðal Maden Suyu 6X200 Ml', 
+   'price':'18,75 TL'
+}
+{
+   'name':'Migros Ultra Çamaþýr Suyu Fresh 1000 Ml', 
+   'price':'14,90 TL'
+}
+{
+   'name':'Sinangil Un 2 Kg', 
+   'price':'36,25 TL'
+}
+{
+   'name':'Sütaþ Pratik Þiþe Ayran 2 L', 
+   'price':'36,25 TL'
+}
+{
+   'name':'Migros Kakao 50 G', 
+   'price':'5,25 TL'
+}
+{
+   'name':'Colgate Çürüklere Karþý Koruma Diþ Macunu 100 Ml', 
+   'price':'23,90 TL'
+}
+{
+   'name':'Tahsildaroðlu Dil Peyniri 250 G', 
+   'price':'85,50 TL'
+}
+{
+   'name':'Cornetto Disc Vanilya Karamel 130Ml', 
+   'price':'22,50 TL'
+}
+{
+   'name':'Golf Maraþým Antep Fýstýðý - Sade 500 Ml', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Minikler Ýçin Dana Kýyma', 
+   'price':'369,90 TL'
+}
+{
+   'name':'Çim Adam (Rafadan Tayfa)', 
+   'price':'12,90 TL'
+}
+{
+   'name':'JOHNSON’S Baby Þampuan, 750 ml', 
+   'price':'67,90 TL'
+}
+{
+   'name':'Whiskas Biftekli Konserve Kedi Mamasý 400 G', 
+   'price':'33,90 TL'
+}
+{
+   'name':'Ýyilik Tost Ekmeði 670 G', 
+   'price':'15,75 TL'
+}
+{
+   'name':'Uno Denge Tambuðdaylý Ve Çiya Tohumlu Ekmek 350 G', 
+   'price':'32,50 TL'
+}
+{
+   'name':'Xiaomi Poco C40 4/64 GB Siyah Cep Telefonu', 
+   'price':'3.599,00 TL'
+}
+{
+   'name':'Migros Yüzey Temizleyici Beyaz Sabun Kokulu 1500Ml', 
+   'price':'17,25 TL'
+}
+{
+   'name':'Ýçim Süt 4x1 L', 
+   'price':'99,50 TL'
+}
+{
+   'name':'Hotwheels Tekli Arabalar', 
+   'price':'50,90 TL'
+}
+{
+   'name':'Migros Baldo Pirinç 1000 G', 
+   'price':'35,90 TL'
+}
+{
+   'name':'Ekici Beyaz Peynir Kg', 
+   'price':'139,90 TL'
+}
+{
+   'name':'Ýhe Altýnçerez Fýndýklý Ve Üzümlü Ekmek 60 G', 
+   'price':'3,00 TL'
+}
+{
+   'name':'Semizotu Adet', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Dr.Oetker Þekerli Vanilin 15'li Paket 75 G', 
+   'price':'17,25 TL'
+}
+{
+   'name':'Pilsan Mini Bot', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Banvit Piliç Pirzola Kg', 
+   'price':'103,90 TL'
+}
+{
+   'name':'Whiskas Tavuklu Konserve Kedi Mamasý 400 G', 
+   'price':'33,90 TL'
+}
+{
+   'name':'Cook Buzdolabý Poþeti (3+1) Orta Boy 24x38 Cm 120'li', 
+   'price':'52,75 TL'
+}
+{
+   'name':'Gourmet Gold Kýyýlmýþ Ton Balýklý 85 G', 
+   'price':'21,95 TL'
+}
+{
+   'name':'Portakal Sýkma File Kg', 
+   'price':'17,50 TL'
+}
+{
+   'name':'Sofra Ekmek Adet', 
+   'price':'5,90 TL'
+}
+{
+   'name':'Pýnar Süt 4X1 L', 
+   'price':'110,00 TL'
+}
+{
+   'name':'Yufka Kg', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Dana Ciðer Kg', 
+   'price':'244,95 TL'
+}
+{
+   'name':'Polonez Dana Kasap Sucuk Kg', 
+   'price':'485,00 TL'
+}
+{
+   'name':'Gizmo Lightweight Kalýn Taneli Kedi Kumu 7L', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Derby Banyo 5'Li Poþet', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Tat Domates Salçasý 830 G', 
+   'price':'36,90 TL'
+}
+{
+   'name':'Söke Un 2 Kg', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Koroplast Fýrýn Torbasý', 
+   'price':'31,95 TL'
+}
+{
+   'name':'Knorr Hazýr Çorba Kremalý Mantar 4 Kiþilik 63 G', 
+   'price':'12,50 TL'
+}
+{
+   'name':'Eti Alaska Frigo Sütlü 60 G', 
+   'price':'15,00 TL'
+}
+{
+   'name':'Knorr Hazýr Çorba Ezogelin 4 Kiþilik 74 G', 
+   'price':'12,50 TL'
+}
+{
+   'name':'Migros Uht Yaðlý Süt 1 L', 
+   'price':'16,99 TL'
+}
+{
+   'name':'Eti Lifalif Yulaf Ezmesi 500 G', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Feast Çilek 400 G', 
+   'price':'86,90 TL'
+}
+{
+   'name':'Migros Ýri Parçalý Ton Balýðý 2X160 G', 
+   'price':'44,50 TL'
+}
+{
+   'name':'Brokoli Kg', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Uni Baby Kulak Çubuðu 60 Adet', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Bodrum Papatyasý', 
+   'price':'49,90 TL'
+}
+{
+   'name':'Magnum Mini Badem (6'lý)', 
+   'price':'99,90 TL'
+}
+{
+   'name':'Ak Kedi Kumu Lavanta Kokulu Kalýn Taneli 5 L', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Superfresh Kýymalý Patatesli Rulo Börek 500G', 
+   'price':'59,90 TL'
+}
+{
+   'name':'Mezzetürk Rus Salatasý 300 G', 
+   'price':'12,60 TL'
+}
+{
+   'name':'Duru Fresh Duþ Sabunu Okyanus Esintisi 4X150 G', 
+   'price':'56,75 TL'
+}
+{
+   'name':'Hipp 1 Organik Combiotic Bebek Sütü 350 G', 
+   'price':'239,90 TL'
+}
+{
+   'name':'Hero Baby Organik Kayýsý Muz Püreli Kavanoz Mama 120 G', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Faber Castell Redline 12'li Keçeli Kalem', 
+   'price':'99,90 TL'
+}
+{
+   'name':'Gourmet Gold Kýyýlmýþ Hýndýlý 85 G', 
+   'price':'21,95 TL'
+}
+{
+   'name':'Feast Patates Ýnce Çubuk 1 Kg', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Pritt Parmak Boyasý 6X30 Ml', 
+   'price':'64,90 TL'
+}
+{
+   'name':'Armut Deveci Kg', 
+   'price':'22,99 TL'
+}
+{
+   'name':'Magnum Mini Double Çikolata, Karadut & Böðürtlen, Karamel (6'lý)', 
+   'price':'99,90 TL'
+}
+{
+   'name':'Nuh'un Ankara Boncuk Makarna 500 G', 
+   'price':'12,75 TL'
+}
+{
+   'name':'Domestos Çamaþýr Suyu Dað Esintisi 750 Ml', 
+   'price':'26,90 TL'
+}
+{
+   'name':'Tahsildaroðlu Klasik Ýnek Peyniri Kg', 
+   'price':'179,90 TL'
+}
+{
+   'name':'Solo Peçete 200 Yaprak', 
+   'price':'57,90 TL'
+}
+{
+   'name':'Coca-Cola Zero Sugar Pet 1 L', 
+   'price':'18,00 TL'
+}
+{
+   'name':'Koroplast Streç Film 33 M', 
+   'price':'68,95 TL'
+}
+{
+   'name':'Prima Bebek Bezi Premium Care 5 Numara 42'li Ekonomik Paket', 
+   'price':'345,90 TL'
+}
+{
+   'name':'Ýhe Tost Ekmeði 670G', 
+   'price':'17,50 TL'
+}
+{
+   'name':'Kepekli Ekmek Adet', 
+   'price':'18,90 TL'
+}
+{
+   'name':'Elma Granny Smith Kg', 
+   'price':'27,90 TL'
+}
+{
+   'name':'Lipton Ice Tea Þeftali Pet 1.5 L', 
+   'price':'24,00 TL'
+}
+{
+   'name':'Carte Dor Kat Kat Limonlu Cheesecake 485 Ml', 
+   'price':'92,50 TL'
+}
+{
+   'name':'Cornetto Classico Çikolata Dondurma 125 Ml', 
+   'price':'15,00 TL'
+}
+{
+   'name':'BIC Evolution Stripes Kuru Boya Kalemi 12'li Kutu', 
+   'price':'64,90 TL'
+}
+{
+   'name':'Fly Uç Korumalý Çocuk Makas', 
+   'price':'21,50 TL'
+}
+{
+   'name':'Iþýk 50' Lý Yýlbasý Süs', 
+   'price':'64,90 TL'
+}
+{
+   'name':'Dr.Oetker Þekerli Vanilin 10'lu Paket 50 G', 
+   'price':'11,90 TL'
+}
+{
+   'name':'Ispanak Kg', 
+   'price':'17,90 TL'
+}
+{
+   'name':'Koroplast Yaðlý Piþirme Kaðýdý 8 M', 
+   'price':'43,95 TL'
+}
+{
+   'name':'Maylo Puf Mendil 150'li', 
+   'price':'21,90 TL'
+}
+{
+   'name':'Lahana Kýrmýzý Kg', 
+   'price':'11,90 TL'
+}
+{
+   'name':'Gillette Permatik Tek Býçak 5'Li', 
+   'price':'44,90 TL'
+}
+{
+   'name':'Migros Taze Kaþar Peyniri 400 G', 
+   'price':'82,50 TL'
+}
+{
+   'name':'Ecoplant Mix Aranjman Q14', 
+   'price':'119,90 TL'
+}
+{
+   'name':'Sandisk Cz50 64Gb Usb Bellek', 
+   'price':'109,90 TL'
+}
+{
+   'name':'Erikli Doðal Kaynak Suyu 5 lt Pet', 
+   'price':'16,95 TL'
+}
+{
+   'name':'Hero Baby Elma Muz Püreli Kavanoz Mama 125 G', 
+   'price':'11,95 TL'
+}
+{
+   'name':'Ýdeal Buzdolabý Poþeti Orta Boy 20'li', 
+   'price':'8,25 TL'
+}
+{
+   'name':'Upfull Gaming Micro Usb Kablo Nt-48', 
+   'price':'49,00 TL'
+}
+{
+   'name':'Migros Temizlik Bezi 5'li', 
+   'price':'12,50 TL'
+}
+{
+   'name':'Everest Sm-18 Usb Siyah.2.4ghz Optik Kablosuz Mouse', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Migros Kýrmýzý Mercimek 2500 G', 
+   'price':'55,90 TL'
+}
+{
+   'name':'Nane Adet', 
+   'price':'9,95 TL'
+}
+{
+   'name':'Max Twister Ocean 72 Ml', 
+   'price':'8,00 TL'
+}
+{
+   'name':'Prýma Premýum Care Aylýk Fýrsat Paket 5 Beden Junýor 11-16 Kg 108'lý', 
+   'price':'749,90 TL'
+}
+{
+   'name':'Superfresh Patates Kroket 450 G', 
+   'price':'27,90 TL'
+}
+{
+   'name':'Viva Tuvalet Kaðýdý 16'lý', 
+   'price':'68,90 TL'
+}
+{
+   'name':'Algida Maraþ Usulü Kornet 120 Ml', 
+   'price':'20,00 TL'
+}
+{
+   'name':'Yudum Ayçiçek Yaðý 1 L', 
+   'price':'48,50 TL'
+}
+{
+   'name':'Superfresh Milföy Hamuru 1 Kg', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Pýnar Aç Bitir Kokteyl Hindi Sosis 180 G', 
+   'price':'32,75 TL'
+}
+{
+   'name':'Faber Castell Grip Auto Kalemtraþ Tekli Klasik Renkler', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Coca-Cola Orijinal Tat Pet 1,5 L', 
+   'price':'23,00 TL'
+}
+{
+   'name':'Sütaþ Pratik Þiþe Ayran 1 L', 
+   'price':'19,50 TL'
+}
+{
+   'name':'Cook Buzdolabý Poþeti Küçük 40'lý', 
+   'price':'17,50 TL'
+}
+{
+   'name':'Tam Buðday Unlu Ekmek Adet', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Hoco Çift Usb Giriþli Ev Þarj Aleti + Þarj Kablo', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Magnum Mini Classic (6'lý)', 
+   'price':'99,90 TL'
+}
+{
+   'name':'Ülker Probis 10'Lu 280 G', 
+   'price':'27,00 TL'
+}
+{
+   'name':'Beypazarý Maden Suyu 6X200 Ml', 
+   'price':'18,75 TL'
+}
+{
+   'name':'Kalanchoe Yerli', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Koroplast Buzdolabý Poþeti Orta Boy 30'Lu', 
+   'price':'19,95 TL'
+}
+{
+   'name':'Coca-Cola Orijinal Pet 1 L', 
+   'price':'18,00 TL'
+}
+{
+   'name':'Orkid Platinum Hijyenik Ped Uzun Süper Ekonomik Paket 20 Ped', 
+   'price':'67,25 TL'
+}
+{
+   'name':'Gillette Permatik Banyo Kullan At Týraþ Býçaðý 5 Adet', 
+   'price':'49,90 TL'
+}
+{
+   'name':'Maret 10'lu Sosis 432 G', 
+   'price':'157,00 TL'
+}
+{
+   'name':'Lüx Pamuklu Çubuk 100'Lü', 
+   'price':'11,00 TL'
+}
+{
+   'name':'Migros Ekonomik Küçük Boy Çöp Torbasý 40 Adet', 
+   'price':'9,75 TL'
+}
+{
+   'name':'Urban Mood Fotoðraf Mandallý Dekoratif Led Iþýk FM-10', 
+   'price':'129,90 TL'
+}
+{
+   'name':'Sinbo Elektrikli Cezve Scm 2928', 
+   'price':'249,90 TL'
+}
+{
+   'name':'Prima Bebek Bezi Aktif Bebek 5 Beden 62 Adet Junior Mega Fýrsat Paketi', 
+   'price':'407,90 TL'
+}
+{
+   'name':'Gourmet Gold Kýyýlmýþ Tavuklu 85 G', 
+   'price':'21,95 TL'
+}
+{
+   'name':'Migros Un 2 Kg', 
+   'price':'20,50 TL'
+}
+{
+   'name':'Felix Sýðýr Etli Yaþ Mama 85G', 
+   'price':'16,75 TL'
+}
+{
+   'name':'Ýçim Süt 1 L', 
+   'price':'27,30 TL'
+}
+{
+   'name':'Pritt Mini Silgi 10'Lu', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Coca-Cola Orijinal Tat 6X250 Ml', 
+   'price':'83,25 TL'
+}
+{
+   'name':'Pedigree Sýðýrlý Konserve Yaþ Mama 400 G', 
+   'price':'33,90 TL'
+}
+{
+   'name':'Uzman Kasap Tekirdað Köfte 320 G', 
+   'price':'87,90 TL'
+}
+{
+   'name':'Finehome Spiralli Led Masa Lambasý', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Nutella 750 G', 
+   'price':'84,50 TL'
+}
+{
+   'name':'Feast Küp Soðan 450 G', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Migros Nohut 1000 G', 
+   'price':'31,50 TL'
+}
+{
+   'name':'Migros Bulaþýk Süngeri - Oluklu 5'Li', 
+   'price':'10,75 TL'
+}
+{
+   'name':'Migros Ultra Hijyenik Ped Uzun 9'lu', 
+   'price':'8,50 TL'
+}
+{
+   'name':'Faber Castell Sýnav Silgisi 2'Li', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Globox Yapýþkanlý Not Kaðýdý Seti', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Pritt Oyun Hamuru 4X100 G ( 4 Renk )', 
+   'price':'64,90 TL'
+}
+{
+   'name':'Ýyilik Sandviç Ekmeði 7X65 G', 
+   'price':'18,00 TL'
+}
+{
+   'name':'Gourmet Gold Parça Etlý Somonlu Ve Tavuklu 85 G', 
+   'price':'21,95 TL'
+}
+{
+   'name':'Varta Super Heavy Duty Kalem Pil 4'lü AA', 
+   'price':'22,90 TL'
+}
+{
+   'name':'Biber Çarliston Kg', 
+   'price':'27,90 TL'
+}
+{
+   'name':'Finish Bulaþýk Makinesi Tuzu 1500 G', 
+   'price':'41,50 TL'
+}
+{
+   'name':'Dido Sütlü Çikolatalý Gofret 35 G', 
+   'price':'6,00 TL'
+}
+{
+   'name':'Sleepy Islak Havlu Zeytinyaðý&Pamuksu Lif 90'Lý', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Ülker Bitter Kare Çikolata %80 Kakaolu 60 G', 
+   'price':'12,25 TL'
+}
+{
+   'name':'Migros Islak Havlu 3x72'li', 
+   'price':'44,25 TL'
+}
+{
+   'name':'Cook Aluminyum Folyo 15 M', 
+   'price':'66,00 TL'
+}
+{
+   'name':'Uni Baby Biberon Ve Emzik Temizleyicýsi 500Ml', 
+   'price':'47,90 TL'
+}
+{
+   'name':'Namet 7/24 Dana Macar Salam 60 G', 
+   'price':'18,90 TL'
+}
+{
+   'name':'Hipp Organik 5 Tahýllý Kaþýk Mamasý 200 G', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Pýnar Rulo Börek Kýymalý Patatesli 500 G', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Orkid Ultra Extra Hijyenik Ped Uzun Süper Ekonomik Paket 22 Ped', 
+   'price':'49,90 TL'
+}
+{
+   'name':'Eti Alaska Frigo Bitter Çikolata Bar 60 G', 
+   'price':'15,00 TL'
+}
+{
+   'name':'Knorr Yayla Çorbasý 72 G', 
+   'price':'12,50 TL'
+}
+{
+   'name':'Upfull Led Iþýklý Lightning Kablo Nt-34', 
+   'price':'49,90 TL'
+}
+{
+   'name':'Hipp Organik Erik Püresi 125 G', 
+   'price':'32,90 TL'
+}
+{
+   'name':'Mojue Lýghtnýng Iphone Þarj Kablo 1M Siyah 3Dk34s A&ü', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Uni Baby Hassas Dokunuþ Çamaþýr Deterjaný 1,5 L', 
+   'price':'129,90 TL'
+}
+{
+   'name':'Maydanoz Adet', 
+   'price':'7,90 TL'
+}
+{
+   'name':'Banvit Piliç Kanat Kg', 
+   'price':'133,90 TL'
+}
+{
+   'name':'Yumurtacým 15'li L Boy Yumurta (63-72 G)', 
+   'price':'43,50 TL'
+}
+{
+   'name':'Sýrma Doðal Maden Suyu 6x200 Ml Cam', 
+   'price':'23,45 TL'
+}
+{
+   'name':'Selpak Havlu 12'li', 
+   'price':'189,90 TL'
+}
+{
+   'name':'Sinbo Elektrikli Çay Seti Stm-5831', 
+   'price':'679,90 TL'
+}
+{
+   'name':'Cook Strech Film 33 M', 
+   'price':'50,75 TL'
+}
+{
+   'name':'Beypiliç Baget Kg', 
+   'price':'85,90 TL'
+}
+{
+   'name':'Minies Bebek Bezi Junior 5 Beden 11-18 Kg 32 Adet', 
+   'price':'88,50 TL'
+}
+{
+   'name':'Pritt Stick Yapýþtýrýcý 22 G', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Migros Ekonomik Islak Havlu 45'li', 
+   'price':'5,00 TL'
+}
+{
+   'name':'Antrikot Pastýrma', 
+   'price':'670,00 TL'
+}
+{
+   'name':'Avokado Adet', 
+   'price':'14,90 TL'
+}
+{
+   'name':'Migros Pastörize Günlük Süt 1 L', 
+   'price':'21,00 TL'
+}
+{
+   'name':'Bood 84 Taþýnýlabilir Müzik Sistemi', 
+   'price':'2.999,00 TL'
+}
+{
+   'name':'Dreamies Tavuklu Kedi Ödül Mamasý 60 G', 
+   'price':'18,90 TL'
+}
+{
+   'name':'Qu-5 Profesyonel Fön Makinesi', 
+   'price':'249,90 TL'
+}
+{
+   'name':'Faber-castell Oval Silgili Kalemtýraþ', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Soðan Kuru (Yeni Mahsul) Kg', 
+   'price':'18,50 TL'
+}
+{
+   'name':'Sýrma C+ Limon Aromalý Doðal Maden Suyu 6x200 Ml', 
+   'price':'26,50 TL'
+}
+{
+   'name':'Sütaþ Tava Yoðurt 1000 G', 
+   'price':'52,25 TL'
+}
+{
+   'name':'S-lýnk Sl-tws05 Bluetooth Mikrofonlu Siyah Kulaklýk', 
+   'price':'249,00 TL'
+}
+{
+   'name':'BIC Kids Plastidecor Elleri Boyamayan Pastel Boya 12'li', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Ozmo Cornet 25 G', 
+   'price':'6,00 TL'
+}
+{
+   'name':'Dr.Oetker Kakao 2X25 G', 
+   'price':'15,00 TL'
+}
+{
+   'name':'Baget Ekmek Sade', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Rexona Kadýn Clinical Stick Shower Clean 45 Ml', 
+   'price':'179,90 TL'
+}
+{
+   'name':'Uno Premium Çavdarlý ve Karabuðdaylý Ekmek 350 G', 
+   'price':'31,50 TL'
+}
+{
+   'name':'Saka Doðal Mineralli Su 10 L', 
+   'price':'27,00 TL'
+}
+{
+   'name':'Pedigree Rodeo Çiðneme Çerezi 70 G', 
+   'price':'22,90 TL'
+}
+{
+   'name':'El Açmasý Yufka Kg', 
+   'price':'44,90 TL'
+}
+{
+   'name':'Globox Baskýlý Yapýþkanlý Not Kaðýdý Seti', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Gourmet Perle Tavuk Etli Pouch 85 G', 
+   'price':'19,95 TL'
+}
+{
+   'name':'Hero Baby Muz Mandalina Armut Püreli Kavanoz Mama 125 G', 
+   'price':'11,95 TL'
+}
+{
+   'name':'Arý 12 Vitaminli 6 Mineralli Sütlü Pirinç Unu 200G', 
+   'price':'31,50 TL'
+}
+{
+   'name':'Tchibo Filtre Kahve Makinesi Let's Brew Siyah', 
+   'price':'1.499,00 TL'
+}
+{
+   'name':'Tost Ekmeði Adet', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Koroplast Kesilmiþ Piþirme Kaðýdý 20'li', 
+   'price':'34,95 TL'
+}
+{
+   'name':'Altýnkýlýç Kefir 1 L', 
+   'price':'29,75 TL'
+}
+{
+   'name':'Migros Buzdolabý Poþeti 24X38 Cm 100'Lü', 
+   'price':'11,50 TL'
+}
+{
+   'name':'Çimoji Çim Adam', 
+   'price':'12,90 TL'
+}
+{
+   'name':'Gillette Permatik Banyo Kullan At Týraþ Býçaðý 10 Adet', 
+   'price':'94,90 TL'
+}
+{
+   'name':'Barilla Fusilli (Burgu) Makarna 500 G', 
+   'price':'22,75 TL'
+}
+{
+   'name':'Superfresh Patatesli Garnitür 450 G', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Migros Limon Kolonyasý Bidon 1 L', 
+   'price':'39,50 TL'
+}
+{
+   'name':'Migros Baldo Pirinç 2500 G', 
+   'price':'85,90 TL'
+}
+{
+   'name':'Golf Maraþým Çikolata - Sade 500 Ml', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Fly Renkli Fotokopi Kaðýdý 100Lü', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Mini Kalanchoe Yerli', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Superfresh Çýtýr Çubuk Patates 1000 G', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Eker Tombul Ayran 6X195 Ml', 
+   'price':'29,95 TL'
+}
+{
+   'name':'Namet Kangal Sucuk Kg', 
+   'price':'625,00 TL'
+}
+{
+   'name':'Uludað Limonata Þekersiz 1 L', 
+   'price':'16,75 TL'
+}
+{
+   'name':'Kaktüs Mix', 
+   'price':'29,90 TL'
+}
+{
+   'name':'Filiz Boncuk Makarna 500 G', 
+   'price':'12,75 TL'
+}
+{
+   'name':'Trakya Ev Tarhanasý 250 G', 
+   'price':'14,25 TL'
+}
+{
+   'name':'Eti Balýk Kraker 40 G', 
+   'price':'3,00 TL'
+}
+{
+   'name':'Torku Tam Çikolatam Bisküvi 249 G', 
+   'price':'24,50 TL'
+}
+{
+   'name':'Algida Maraþ Usulü Çifte Dövülmüþ Dondurma 500 Ml', 
+   'price':'74,90 TL'
+}
+{
+   'name':'i'think 8,5'' Dijital Yazý ve Çizim Tableti', 
+   'price':'59,90 TL'
+}
+{
+   'name':'Bolca Hindi Bütün Göðüs 750 G', 
+   'price':'118,00 TL'
+}
+{
+   'name':'Ak Kedi Kumu Ýnce Taneli Marsilya Sabun Kokulu 5 L', 
+   'price':'54,90 TL'
+}
+{
+   'name':'Filiz Spagetti (Çubuk) Makarna 500 G', 
+   'price':'12,75 TL'
+}
+{
+   'name':'Cle Up Disk Makyaj Pamuðu', 
+   'price':'10,75 TL'
+}
+{
+   'name':'Migros Lavabo Açýcý 3X75 G', 
+   'price':'21,00 TL'
+}
+{
+   'name':'Migros Mantar 400 G', 
+   'price':'22,90 TL'
+}
+{
+   'name':'Queen Creatýons-succulent Trýo', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Algida Maraþ Usulü, Sade Dondurma Cup 105 ml', 
+   'price':'15,00 TL'
+}
+{
+   'name':'Prýma Aktif Bebek Aylýk Fýrsat Paket 6 Beden Xl 13-18 Kg 102'li', 
+   'price':'599,90 TL'
+}
+{
+   'name':'Pritt Oyun Hamuru 6 Renk 6X100 G', 
+   'price':'97,90 TL'
+}
+{
+   'name':'Feast Organik Bezelye 450 G', 
+   'price':'48,50 TL'
+}
+{
+   'name':'Uzman Kasap Izgara Köfte 320 G', 
+   'price':'87,90 TL'
+}
+{
+   'name':'Salata Kývýrcýk Adet', 
+   'price':'15,90 TL'
+}
+{
+   'name':'Dana But Sotelik Et Çiftlik Kg', 
+   'price':'374,90 TL'
+}
+{
+   'name':'Muz Ýthal Kg', 
+   'price':'49,90 TL'
+}
+{
+   'name':'Polonez Özel Lüks Sucuk Kg', 
+   'price':'689,00 TL'
+}
+{
+   'name':'Migros Limon Kolonyasý Pet Þiþe 400 Cc', 
+   'price':'19,25 TL'
+}
+{
+   'name':'Ecoplant Succulent Q8,5', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Fly Color Eva 10 Lu A4', 
+   'price':'28,90 TL'
+}
+{
+   'name':'Gourmet Perle Sýðýr Etli Pouch 85 G', 
+   'price':'19,95 TL'
+}
+{
+   'name':'Migros Un 5 Kg', 
+   'price':'49,90 TL'
+}
+{
+   'name':'Migros Çöp Torbasý Büzgülü Büyük Boy Limon Kokulu 15'li', 
+   'price':'18,50 TL'
+}
+{
+   'name':'Hacý Þakir Lavanta Dinlendirici Bakým Sývý El Sabunu 1500 Ml', 
+   'price':'127,25 TL'
+}
+{
+   'name':'Hero Baby Organik Karýþýk Meyve Püreli Kavanoz Mama 120 G', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Touch Me Yapay Çiçek Hayvan Figürlü Saksý', 
+   'price':'49,95 TL'
+}
+{
+   'name':'Pýnar Aç Bitir Hindi Salam Taze Dilimlenmiþ 10 Dilim 75 G', 
+   'price':'15,95 TL'
+}
+{
+   'name':'Succulent Mix', 
+   'price':'7,90 TL'
+}
+{
+   'name':'Ýstanbul Organik Halk Ekmek 500 G', 
+   'price':'17,00 TL'
+}
+{
+   'name':'Nestlé Pure Life Doðal Kaynak Suyu 6 x 1,5 lt Pet', 
+   'price':'36,95 TL'
+}
+{
+   'name':'Eti Browni Gold Mini Çikolatalý Kek 180 g', 
+   'price':'20,00 TL'
+}
+{
+   'name':'Gizmo Compact Ýnce Taneli Kedi Kumu 5L', 
+   'price':'34,90 TL'
+}
+{
+   'name':'Ýhe Çavdar Ekmeði 400 G', 
+   'price':'14,00 TL'
+}
+{
+   'name':'Algida Keyif Vanilya 750 Ml', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Billur Tuz Rafine Ýyotlu Sofra Tuzu 750 G', 
+   'price':'12,90 TL'
+}
+{
+   'name':'Koroplast Buzdolabý Poþeti Orta Boy 4 Al 3 Öde 120'li', 
+   'price':'59,95 TL'
+}
+{
+   'name':'Superfresh Bezelye 450 G', 
+   'price':'44,90 TL'
+}
+{
+   'name':'Dreamies Peynirli Kedi Ödül Mamasý 60 G', 
+   'price':'18,90 TL'
+}
+{
+   'name':'Ülker Bol Sütlü Kare Çikolata 60 G', 
+   'price':'12,25 TL'
+}
+{
+   'name':'Algida Keyif Kakao - Vanilya 750 Ml', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Uzman Kasap Dana Hamburger Köfte 330 G', 
+   'price':'102,90 TL'
+}
+{
+   'name':'Golf Maraþým Sade 500 Ml', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Ýçim Þef %35 Yaðlý Krema 200 Ml', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Koroplast Streç Film 15 M', 
+   'price':'38,90 TL'
+}
+{
+   'name':'Migros Yarým Yaðlý Uht Süt 1000 Ml', 
+   'price':'16,75 TL'
+}
+{
+   'name':'Cook Buzdolabý Poþeti Büyük', 
+   'price':'17,50 TL'
+}
+{
+   'name':'Elma Starking Kg', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Algida Maraþ Usulü Sade Çikolata Dondurma 500 Ml', 
+   'price':'69,90 TL'
+}
+{
+   'name':'Peyman Çitliyo Kara Þimþek Klasik 120 G', 
+   'price':'16,50 TL'
+}
+{
+   'name':'Ecoplant Haworthia Mix Q9', 
+   'price':'27,90 TL'
+}
+{
+   'name':'Kültür Mantarý 400 G Paket', 
+   'price':'32,90 TL'
+}
+{
+   'name':'Mýrmýr Bentonit Süper Topaklanan Kutu Kedi Kumu5lt', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Migros Pilavlýk Bulgur 1000 G', 
+   'price':'15,50 TL'
+}
+{
+   'name':'Banvit Piliç Baget Kg', 
+   'price':'85,90 TL'
+}
+{
+   'name':'BIC Evolution Stripes Kuru Boya Kalemi 24'lü Kutu', 
+   'price':'114,90 TL'
+}
+{
+   'name':'Eti Karam Gurme Bitter Çikolatalý Gofret 50 g', 
+   'price':'6,75 TL'
+}
+{
+   'name':'Milka Bonibon 3'lü Paket 72.9 G', 
+   'price':'23,75 TL'
+}
+{
+   'name':'Cornetto Astro Aþk Yýldýzý 120 Ml', 
+   'price':'20,00 TL'
+}
+{
+   'name':'M Süper Ekonomik Peçete 200'lü', 
+   'price':'12,50 TL'
+}
+{
+   'name':'Dana Döþ Rulo Kg (Kýyma)', 
+   'price':'319,90 TL'
+}
+{
+   'name':'Golf Royal Gourmet Yaz Ferahlýðý - Bursa Þeftalisi 850 Ml', 
+   'price':'89,90 TL'
+}
+{
+   'name':'Sinangil Un 5 Kg', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Algida Frootie Quark Orman Meyveli 60 Ml', 
+   'price':'12,00 TL'
+}
+{
+   'name':'Domates Kg', 
+   'price':'19,99 TL'
+}
+{
+   'name':'Colgate Geliþmiþ Beyazlýk Diþ Macunu 50 Ml', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Hero Baby Organik Elma Þeftali Püreli Kavanoz Mama 120 G', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Kinder Chocolate 4'lü 50 G', 
+   'price':'18,50 TL'
+}
+{
+   'name':'Queen Rosset -Hawortia Q5.5', 
+   'price':'14,90 TL'
+}
+{
+   'name':'Paþabahçe Yuvarlak Tepsi Borcam 26 Cm', 
+   'price':'119,95 TL'
+}
+{
+   'name':'Hipp 3 Organik Combiotic Devam Sütü 350 G', 
+   'price':'239,90 TL'
+}
+{
+   'name':'Patlýcan Kemer Kg', 
+   'price':'11,75 TL'
+}
+{
+   'name':'Feast Taze Fasulye 450 G', 
+   'price':'52,50 TL'
+}
+{
+   'name':'Cook Doðal Piþirme Kaðýdý 8 M', 
+   'price':'35,75 TL'
+}
+{
+   'name':'Ýçim Rahat Laktozsuz Süt 1 L', 
+   'price':'23,90 TL'
+}
+{
+   'name':'Elma Fuji Kg', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Filiz Fiyonk Makarna 500 G', 
+   'price':'12,75 TL'
+}
+{
+   'name':'Derby Lady Poþet 5 Li', 
+   'price':'39,50 TL'
+}
+{
+   'name':'Altýnbaþak Çörek Otlu&Kinoalý Kraker 5X40G', 
+   'price':'19,00 TL'
+}
+{
+   'name':'Kaktüs Dekoratif Saksý', 
+   'price':'24,90 TL'
+}
+{
+   'name':'Uludað Limonata 1 L', 
+   'price':'16,75 TL'
+}
+{
+   'name':'Algida Maraþ Usulü Kornet Dondurma 115 Ml', 
+   'price':'20,00 TL'
+}
+{
+   'name':'Hipp Organik Elma Ve Muz Püresi 190 G', 
+   'price':'36,90 TL'
+}
+{
+   'name':'Mýrmýr Bentonit Ekstra Güçlü Kutu Kedi Kumu 5 Lt', 
+   'price':'79,90 TL'
+}
+{
+   'name':'Minik Sandviç Ekmeði 6'lý', 
+   'price':'39,90 TL'
+}
+{
+   'name':'Çim Adam (Kukuli)', 
+   'price':'12,90 TL'
+}
+{
+   'name':'Banvit Piliç Bonfile Kg', 
+   'price':'119,50 TL'
+}
+{
+   'name':'Eti Hoþbeþ Fýndýk Kremalý Gofret 142 g', 
+   'price':'17,50 TL'
+}
+{
+   'name':'Faber Castell Bls. 8'Li Silgili Kurþun Kalem', 
+   'price':'44,90 TL'
+}
+{
+   'name':'Coca-Cola Orijinal Tat Pet 4X1 L', 
+   'price':'59,50 TL'
+}
+{
+   'name':'Urban Mood Tavþan Gece Lambasý TGL-32', 
+   'price':'59,90 TL'
+}
+{
+   'name':'Pizza Mi-Go Jambon - Chedarlý 520G Dondurulmuþ', 
+   'price':'59,90 TL'
+}
+{
+   'name':'Kotex Ýnce Günlük Ped Parfumsuz 34'lü', 
+   'price':'27,90 TL'
+}
+{
+   'name':'Eti Burçak Tam Buðday Unlu Bisküvi 3x131 g', 
+   'price':'25,75 TL'
+}
+{
+   'name':'Cook Buzdolabý Poþeti Küçük Boy 70'li', 
+   'price':'23,75 TL'
+}
+{
+   'name':'Viva Havlu 6'lý', 
+   'price':'43,90 TL'
+}
+{
+   'name':'Soðan Taze Demet', 
+   'price':'16,90 TL'
+}
+{
+   'name':'Gourmet Gold Kýyýlmýþ Sýðr Etlý 85 G', 
+   'price':'21,95 TL'
+}
+{
+   'name':'Sinbo Scm-2951 Elektrikli Cezve', 
+   'price':'199,90 TL'
+}
+{
+   'name':'Cle Up Kulak Çubuðu 200'Lü', 
+   'price':'12,75 TL'
+}
+{
+   'name':'Feast Bezelye 450 G', 
+   'price':'41,90 TL'
+}
+{
+   'name':'Cornetto Classico Kaymak Dondurma 125 Ml', 
+   'price':'15,00 TL'
+}
+{
+   'name':'Namet 7 / 24 Hindi Salam 60 G', 
+   'price':'8,40 TL'
+}
+{
+   'name':'Ýçim Taze Kaþar Peyniri 700 G', 
+   'price':'139,90 TL'
+}
+{
+   'name':'Knorr Çabuk Çorba Kremalý Mantar 19 G', 
+   'price':'6,25 TL'
+}
+{
+   'name':'Apikoðlu Klasik Sucuk Kg', 
+   'price':'739,00 TL'
+}
+{
+   'name':'Cornetto Disc Milka 130 Ml', 
+   'price':'22,50 TL'
+}
+{
+   'name':'Beypazarý Yaprak Sarma Kg', 
+   'price':'180,00 TL'
+}
+{
+   'name':'Gourmet Gold Parça Etlý Tavuklu Ve Cýðerlý 85 G', 
+   'price':'21,95 TL'
+}
+{
+   'name':'Cornetto Disc Oreo 130Ml', 
+   'price':'22,50 TL'
+}
+{
+   'name':'Magnum Double Karadut (95 ml)', 
+   'price':'25,00 TL'
+}
+{
+   'name':'Knorr Hazýr Çorba Kremalý Domates 4 Kiþilik 69 G', 
+   'price':'12,50 TL'
+}
+{
+   'name':'Signal Diþ Macunu White Now 75 Ml', 
+   'price':'89,90 TL'
+}
+{
+   'name':'Magnum Badem 100 Ml', 
+   'price':'25,00 TL'
+}
+{
+   'name':'General Home El Feneri Df-25', 
+   'price':'19,90 TL'
+}
+{
+   'name':'Kingston 64 GB Canvas Select Plus Micro SD Kart', 
+   'price':'129,90 TL'
+}
+{
+   'name':'Feast Ispanak 450 G', 
+   'price':'36,50 TL'
+}
+{
+   'name':'Bood Kablosuz Þarj Edilebilir Mouse Ps-21', 
+   'price':'159,90 TL'
+}
+{
+   'name':'Ak Kedi Kumu Aktif Karbon ve Fresh Kokulu 5 L', 
+   'price':'59,90 TL'
+}
+{
+   'name':'Molped Her Gün Ferahlýk Günlük Ped 20'li', 
+   'price':'9,50 TL'
+}
