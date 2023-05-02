@@ -6,15 +6,12 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import javax.print.Doc;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.HashSet;
-import java.util.List;
 import java.util.Set;
 
-public class A101Scraping {
+public class A101ScrapingOld {
     public static void main(String[] args) throws IOException
     {
         Set<Product> scrapedProducts = Scrape();
